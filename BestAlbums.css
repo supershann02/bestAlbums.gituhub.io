@@ -1,0 +1,157 @@
+body {
+    background-color: black;
+}
+.jumbotron {
+    background-color: rgb(8, 201, 235);
+    color: black;
+    font-family: 'Righteous', cursive;
+}
+#header {
+    color: rgb(8, 201, 235);
+    font-size: 32px;
+    font-family: 'Bungee', cursive;
+}
+#three {
+    color: purple;
+}
+h5 {
+    font-size: 24px;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+#AM:hover {
+    background-color: blue;
+    color: purple;
+    transition: 1s;
+    border-radius: 50px;
+    transition: 1s;
+}
+.col-md-4 {
+    transition: .5s;
+}
+.green {
+    background-color: rgb(85, 209, 28);
+    color: black;
+}
+#first {
+    color: blue;
+}
+img {
+    height:200px;
+    width: 200px;
+}
+#DemonDays:hover {
+    background-color:  rgb(85, 209, 28);
+    transition: .5s;
+    color: blue;
+    border-radius: 50px;
+}
+.purple {
+    background-color: purple;
+    color: black;
+}
+#Random:hover {
+    background-color: purple;
+    transition: .5s;
+    color: rgb(85, 209, 28);
+    border-radius: 50px;
+}
+#two {
+    color: rgb(85, 209, 28);
+}
+.blue {
+    color: black;
+    background-color: blue;
+}
+.yellow {
+    color: black;
+    background-color: yellow;
+}
+#story:hover {
+    background-color: rgb(85, 209, 28);
+    transition: .5s;
+    border-radius: 50px;
+}
+#sleep:hover {
+    background-color: purple;
+    transition: .5s;
+    border-radius: 50px;
+}
+#wolfgang:hover {
+    background-color: blue;
+    transition: .5s;
+    border-radius: 50px;
+}
+#HotFuss {
+    transform: translateY(10px);
+}
+#HotFuss:hover {
+    background-color: purple;
+    transition: .5s;
+    border-radius: 50px;
+}
+#littleDarkAge {
+    transform: translateY(10px);
+}
+#littleDarkAge:hover {
+    background-color: blue;
+    transition: .5s;
+    border-radius: 50px;
+}
+#stelsewhere {
+    transform: translateY(10px);
+}
+#stelsewhere:hover {
+    background-color: rgb(85, 209, 28);
+    transition: .5s;
+    border-radius: 50px;
+}
+#elephant {
+    transform: translateY(20px);
+}
+#elephant:hover {
+    background-color: blue;
+    transition: .5s;
+    border-radius: 50px;
+}
+#player {
+    transform: translateY(20px);
+}
+#player:hover {
+    background-color: rgb(85, 209, 28);
+    transition: .5s;
+    border-radius: 50px;
+}
+#iloveyou {
+    transform: translateY(20px);
+}
+#iloveyou:hover {
+    background-color: purple;
+    transition: .5s;
+    border-radius: 50px;
+}
+#singles {
+    transform: translateY(30px);
+}
+#singles:hover {
+    background-color:  rgb(85, 209, 28);
+    transition: .5s;
+    border-radius: 50px;
+}
+#currents {
+    transform: translateY(30px);
+}
+#currents:hover {
+    background-color: purple;
+    transition: .5s;
+    border-radius: 50px;
+}
+#disco {
+    transform: translateY(30px);
+}
+#disco:hover {
+    background-color: blue;
+    transition: .5s;
+    border-radius: 50px;
+}
